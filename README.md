@@ -9,9 +9,9 @@ source: [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-meg
 3. [x] Web Forms
 4. [x] Databases
 5. [x] User Logins
-6. [ ] Profile Page and Avatar
-7. [ ] Error Handling
-8. [ ] Followers
+6. [x] Profile Page and Avatar
+7. [-] Error Handling
+8. [x] Followers
 9. [ ] Paginations
 10. [ ] Email Support
 11. [ ] Facelift
